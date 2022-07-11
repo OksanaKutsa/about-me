@@ -47,6 +47,9 @@ h3 {
   background-color: var(--primary-color);
   color: white;
 }
+#contact {
+  margin-top: 48px;
+}
 .about-link {
   border: 1px solid var(--primary-color);
   color: var(--primary-color);
@@ -94,5 +97,15 @@ p {
   }
   .apps {
     margin-top: 10px;
+  }
+  .email-link {
+    font-size: 18px;
+  }
+  #contact {
+    margin-top: 5px;
+  }
+  .about-img {
+    max-width: 50%;
+    margin-left: 87px;
   }
 }
